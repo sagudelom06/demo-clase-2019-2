@@ -1,10 +1,10 @@
-#Titulo Principal
+# Titulo Principal
 
-##Subtitulo 1
+## Subtitulo 1
 
 bla bla bla
 
-#Subtitulo 2
+## Subtitulo 2
 
 bla bla bla
 
@@ -13,13 +13,17 @@ bla bla bla
 *Viñeta
 
 
-#Subtitulo 3
+## Subtitulo 3
 
-[]lista de chequeo 1
-[]lista de chequeo 2
+-[x] lista de chequeo 1
+-[] lista de chequeo 2
 
-#Subtitulo 4
+## Subtitulo 4
 
 Ecuación
 
 $$x^2 $$
+
+## Hipervinculo
+
+https://www.google.com/
