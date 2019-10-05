@@ -10,3 +10,6 @@ esta maricada no funciona
 que?
 
 Modificacion de arriba
+
+
+modificacion de abajo - en maquina local
